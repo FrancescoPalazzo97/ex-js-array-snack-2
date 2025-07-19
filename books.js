@@ -18,7 +18,7 @@ const books = [
             age: 20
         },
         available: true,
-        price: '24€',
+        price: '25€',
         tags: ['advanced', 'js', 'mid-senior']
     },
     {
@@ -29,7 +29,7 @@ const books = [
             age: 17
         },
         available: true,
-        price: '7€',
+        price: '8€',
         tags: ['html', 'css', 'junior']
     },
     {
